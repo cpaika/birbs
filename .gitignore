@@ -1,0 +1,19 @@
+# Rust
+/target
+Cargo.lock
+
+# Dataset and model files
+/data
+*.safetensors
+*.ckpt
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

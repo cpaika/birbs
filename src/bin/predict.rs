@@ -4,7 +4,7 @@ use candle_nn::{ops, VarBuilder, VarMap};
 use std::env;
 
 // Import from the library
-use imgs::model::BirdCNN;
+use birbs::model::BirdCNN;
 
 fn preprocess_image(img_path: &str, size: u32) -> Result<Vec<f32>> {
     // Load image

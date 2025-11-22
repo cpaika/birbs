@@ -1,4 +1,4 @@
-use imgs::dataset::BirdDataset;
+use birbs::dataset::BirdDataset;
 
 #[test]
 fn test_augmentation_flag() {

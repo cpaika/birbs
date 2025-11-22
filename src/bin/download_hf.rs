@@ -1,7 +1,7 @@
 use anyhow::Result;
 use std::env;
 
-use imgs::dataset::BirdDataset;
+use birbs::dataset::BirdDataset;
 
 fn main() -> Result<()> {
     let args: Vec<String> = env::args().collect();

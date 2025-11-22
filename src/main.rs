@@ -1,11 +1,11 @@
 use anyhow::Result;
 use candle_nn::{Optimizer, VarBuilder, VarMap};
 
-use imgs::checkpoint;
-use imgs::dataset::BirdDataset;
-use imgs::model::BirdCNN;
-use imgs::train::{load_model, save_model, Trainer};
-use imgs::tui::run_training_ui;
+use birbs::checkpoint;
+use birbs::dataset::BirdDataset;
+use birbs::model::BirdCNN;
+use birbs::train::{load_model, save_model, Trainer};
+use birbs::tui::run_training_ui;
 
 fn main() -> Result<()> {
     // Configuration

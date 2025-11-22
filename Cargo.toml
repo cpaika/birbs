@@ -1,8 +1,8 @@
 [package]
-name = "imgs"
+name = "birbs"
 version = "0.1.0"
 edition = "2021"
-default-run = "imgs"
+default-run = "birbs"
 
 [dependencies]
 candle-core = "0.8"

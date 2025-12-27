@@ -1,0 +1,38 @@
+LAKE CHAMPLAIN BATHYMETRY MAP
+============================================================
+
+Target A (high)
+  Lat: 44.24990°N, Lon: -73.34470°W
+  Depth: ~82ft
+  Maps: https://www.google.com/maps?q=44.2499,-73.3447
+
+Target B (high)
+  Lat: 44.25320°N, Lon: -73.33530°W
+  Depth: ~59ft
+  Maps: https://www.google.com/maps?q=44.2532,-73.3353
+
+Target C (high)
+  Lat: 44.25660°N, Lon: -73.33530°W
+  Depth: ~92ft
+  Maps: https://www.google.com/maps?q=44.2566,-73.3353
+
+Target D (high)
+  Lat: 44.26000°N, Lon: -73.34470°W
+  Depth: ~33ft
+  Maps: https://www.google.com/maps?q=44.26,-73.3447
+
+Target E (medium)
+  Lat: 44.46150°N, Lon: -73.20740°W
+  Depth: ~72ft
+  Maps: https://www.google.com/maps?q=44.4615,-73.2074
+
+Target F (medium)
+  Lat: 44.47050°N, Lon: -73.23890°W
+  Depth: ~43ft
+  Maps: https://www.google.com/maps?q=44.4705,-73.2389
+
+Target G (medium)
+  Lat: 44.62000°N, Lon: -73.42800°W
+  Depth: ~57ft
+  Maps: https://www.google.com/maps?q=44.62,-73.428
+
